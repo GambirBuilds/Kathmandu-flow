@@ -1,0 +1,6 @@
+{
+  "name": "Kathmandu Flow — Traffic Simulation & City Flow Dashboard",
+  "description": "Interactive traffic simulation and city flow dashboard for Kathmandu Valley modeling Kathmandu, Lalitpur, and Bhaktapur, Ring Road, Arniko 6-lane highway, signals, and road closures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
